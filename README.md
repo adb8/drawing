@@ -1,3 +1,3 @@
 # drawing
 
-ctrl s to save !!
+ctrl s to save
